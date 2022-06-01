@@ -1,0 +1,23 @@
+.container {
+    width: 500px;
+    height: 700px;
+    background-color: rgb(68, 47, 116);
+    position: relative;
+    font-size: 50px;
+    text-align: center;
+}
+
+.player {
+    width: 50px;
+    height: 70px;
+    background-color: rgb(239, 230, 230);
+    position: absolute;
+}
+
+.ground {
+    width: 75px;
+    height: 15px;
+    background-color: rgb(46, 231, 188);
+    position: absolute;
+    z-index: 1;
+}
