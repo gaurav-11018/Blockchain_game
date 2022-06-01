@@ -1,2 +1,3 @@
 # Blockchain_game
-Yet to be continued
+
+its a cool game, will update this readme oncce i am completed
